@@ -1,0 +1,62 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+p{
+    font-family:Kalnia Glaze;
+    /* text-align: center; */
+    font-size: 25px;
+    
+}
+
+body{
+    background-color: white;
+}
+.p1{
+    background-color: blueviolet;
+}
+.p2{
+    background-color: pink;
+}
+.p3{
+    background-color: blue;
+}
+.p4{
+    background-color:khaki;
+}
+
+.p5{
+    background-color: blue;
+}
+.p6{
+    background-color: aqua;
+}
+.p7{
+    background-color: burlywood;
+}
+.p8{
+    background-color: fuchsia;
+}
+.p9{
+    background-color: hotpink;
+}
+.p10{
+    background-color: skyblue;
+}
+.p11{
+    background-color: goldenrod;
+}
+.p12{
+    background-color: brown;
+}
+.p13{
+    background-color: aqua;
+}
+.p14{
+    background-color: chocolate;
+}
+.p15{
+    background-color: crimson;
+}
+.p16{
+    background-color: darksalmon;
+}
